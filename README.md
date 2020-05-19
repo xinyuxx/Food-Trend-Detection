@@ -5,7 +5,8 @@ The goal of this project is to detect the emerging trends of food consumption fr
 Early detection of emerging food trends can bring great business opportunities. Recently, a lot of food-related discussions occur on social media platforms such as Twitter and Facebook. Therefore, social media posts may contain potentially valuable and real-time source of intelligence that can be leveraged by retailers to better serve its customers.
 
 
-About the Dataset://
+About the Dataset:  
+
 The dataset contains over 4 million Facebook posts from 2011 to 2015.
 
 
